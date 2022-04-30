@@ -3,7 +3,7 @@ Dijkstra's Algorithm for finding shortest path between two cities using Priority
 
 Graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines).
 
-Implementations of graph algorithms:
+## Implementations of graph algorithms:
 - Read CSV and create graph with vertices/ nodes and edges using HashMap<String, List<Edge>>
 - Add static method, shortestPath(Graph graph, String from, String to), returning a List of cities visited, from source to the destination, followed by total distance between cities (km)
 - Add static method, nearby(Graph graph, String origin, double distance), returning a List of cities with the corresponding distances, for given distance (eg: k=100)
