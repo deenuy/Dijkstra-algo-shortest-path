@@ -1,5 +1,5 @@
 # Dijkstra-algo-shortest-path
-Dijkstra's Algorithm for finding shortest path between two cities using PriorityQueues and list nearby cities for given distance k. Assumes all distances are non0negative.
+Dijkstra's Algorithm for finding shortest path between two cities using PriorityQueues and list nearby cities for given distance k. Assumes all distances are non-negative.
 
 Graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines).
 
